@@ -1,7 +1,7 @@
 # ror-security-issues
 Understanding Security Issues of Ruby on Rails
 
-## Exercies
+## Exercises
 * https://github.com/OWASP/railsgoat
 
 ## References
