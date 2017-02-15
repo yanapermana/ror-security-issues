@@ -10,7 +10,8 @@ Notes:
  * Solution: Install it via apt repository.
 * Do not follow this [steps](http://railsgoat.cktricky.com/getting_started.html).
  * Follow step-by-step from README.md of Rails Goat repository.
-
+* Problem: Rails server not worked properly.
+ * Use binding e.g. `$ sudo rails s -b your_ip -p your_port`
 
 ## References
 * https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/
